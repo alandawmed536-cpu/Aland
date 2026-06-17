@@ -1,0 +1,6 @@
+{
+  "name": "Kud Chat",
+  "description": "A fully functional real-time full-stack local Kurdish messaging application supporting global channels, direct messages, and attachments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
