@@ -1,0 +1,23 @@
+{
+  "name": "Aso Messenger",
+  "short_name": "Aso Chat",
+  "description": "Aso Real-time Messenger with Gemini AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080411",
+  "theme_color": "#080411",
+  "icons": [
+    {
+      "src": "/aso-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/telegram-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
